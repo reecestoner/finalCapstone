@@ -22,12 +22,12 @@ To run the Holiday Cost Calculator locally, follow these steps:
 
 ## Usage
 
-1. When prompted, enter one of the following cities: Rome, Milan, Paris, or New York. The input is case-insensitive. ![City](https://drive.google.com/file/d/1nB8rplhD0LM6B1GHzmOkNV93t7DQ2FXU/view?usp=drive_link)
+1. When prompted, enter one of the following cities: Rome, Milan, Paris, or New York. 
 2. If the entered city is not one of the provided options, the program will ask you to enter a valid city.
-3. Enter the number of nights you would like to stay. The input must be a positive integer greater than or equal to 1. ![Nights](https://www.dropbox.com/s/qkquzjyo09ulp1e/Nights.png?dl=0)
-4. Enter the number of days you would like to rent a car. The input must be a non-negative integer. ![Rental](https://www.dropbox.com/s/0olkyllepmm0rk3/Rental.png?dl=0)
+3. Enter the number of nights you would like to stay. The input must be a positive integer greater than or equal to 1. 
+4. Enter the number of days you would like to rent a car. The input must be a non-negative integer.
 5. The program will calculate the cost of the hotel, flight, and car rental (if applicable).
-6. It will then display the individual costs and the total cost of your holiday. ![overall](https://www.dropbox.com/s/p58u7tn4izv2g6q/Overall.png?dl=0)
+6. It will then display the individual costs and the total cost of your holiday. 
 
 
 ## Credits
